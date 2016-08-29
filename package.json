@@ -1,0 +1,19 @@
+{
+  "name": "dice-roll",
+  "version": "1.0.0",
+  "description": "## cli.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveharmswebdev/nss-modularity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveharmswebdev/nss-modularity/issues"
+  },
+  "homepage": "https://github.com/daveharmswebdev/nss-modularity#readme"
+}
