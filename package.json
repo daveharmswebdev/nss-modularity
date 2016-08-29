@@ -2,9 +2,12 @@
   "name": "dice-roll",
   "version": "1.0.0",
   "description": "## cli.js",
-  "main": "index.js",
+  "main": "./bin/diceroll",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "diceroll": "./bin/diceroll"
   },
   "repository": {
     "type": "git",
